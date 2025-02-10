@@ -1,1 +1,1 @@
-Esta línea ha sido cambiada en master.
+Esta línea fue modificada en ambas ramas y ha sido resuelta.
