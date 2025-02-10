@@ -1,1 +1,1 @@
-Esta línea fue modificada en ambas ramas y ha sido resuelta, (Cambio para generar un conflicto usando rebase)
+Esta línea fue modificada en ambas ramas y ha sido resuelta, (Cambio para generar un conflicto usando rebase CONFLICTO)
