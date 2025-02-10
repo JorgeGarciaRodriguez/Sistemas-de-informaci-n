@@ -1,0 +1,1 @@
+Esta línea será modificada en ambas ramas.
